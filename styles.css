@@ -1,8 +1,11 @@
+.wrapper {
+  display: flex;
+}
+
 .box {
-  background: blue;
+  background: peru;
   width: 300px;
   height: 300px;
-  display: inline-block;
   color: white;
 }
 
