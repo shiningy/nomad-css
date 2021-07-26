@@ -1,5 +1,8 @@
 .wrapper {
   display: flex;
+  justify-content: space-around;
+  align-items: flex-start;
+  height: 100vh;
 }
 
 .box {
@@ -7,12 +10,4 @@
   width: 300px;
   height: 300px;
   color: white;
-}
-
-.box:nth-child(2) {
-  margin-left: 35px;
-}
-
-.box:nth-child(3) {
-  margin-left: 20px;
 }
