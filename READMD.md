@@ -11,11 +11,9 @@
 - [x] align-self
 - [x] flex-wrap
 - [x] align-content
-- [ ] order
-- [ ] flex-grow
-- [ ] flex-shrink
-- [ ] flex-basis
-- [ ] align-self
+- [x] flex-grow
+- [x] flex-shrink
+- [x] flex-basis
 
 ## Grid:
 
