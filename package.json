@@ -1,0 +1,29 @@
+{
+  "name": "nomad-css",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/shiningy/nomad-css.git",
+  "author": "myunghyun_yang <shiningy84@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "gulp dev"
+  },
+  "browserslist": {
+    "browsers": [
+      "last 2 versions"
+    ]
+  },
+  "devDependencies": {
+    "@babel/preset-env": "^7.14.8",
+    "@babel/register": "^7.14.5",
+    "del": "^6.0.0",
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^8.0.0",
+    "gulp-csso": "^4.0.1",
+    "gulp-sass": "^5.0.0",
+    "node-sass": "^6.0.1"
+  },
+  "dependencies": {
+    "@babel/core": "^7.14.8"
+  }
+}
